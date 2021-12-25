@@ -1,3 +1,0 @@
-git config http.sslCAinfo "D:\Coding Softwares\Git\mingw64\ssl\certs\ca-bundle.crt"
-git config --global http.sslverify "false"
-git config --system http.sslcainfo "D:\Coding Softwares\Git\mingw64\ssl\certs\ca-bundle.crt
